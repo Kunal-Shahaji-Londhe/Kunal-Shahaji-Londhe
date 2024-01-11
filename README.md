@@ -3,6 +3,8 @@
 
 - 🌱 I’m currently learning **react**
 
+- 🐼 I’m trying to be consistent by following **#100DaysOfCode**
+
 - 👯 I’m looking to collaborate on **new projects.**
 
 - 📫 How to reach me **londhekunalx@gmail.com**
