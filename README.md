@@ -2,6 +2,7 @@
 <h3 align="left">mostly a backend developer but if you want me to i can work frontend as well.</h3>
 
 - 📫 How to reach me **londhekunalx@gmail.com**
-
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+  
+<h3 align="left">Languages and Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,ts,tailwind,nodejs,git,github,websocket,expressjs,mongodb,sql&perline=7)](https://skillicons.dev)
 
