@@ -66,7 +66,6 @@
 ## 📬 Connectivity Core
 
 - **Email:** kunal.shahaji.londhe@gmail.com
-- **LinkedIn:** [://linkedin.com]([https://://linkedin.com](https://www.linkedin.com/in/kunalshahajilondhe/
- ))
-- **LeetCode:** [://leetcode.com]([https://://leetcode.com](https://leetcode.com/u/user3958W/))
+- **LinkedIn:** [linkedin.com]([https://://linkedin.com](https://www.linkedin.com/in/kunalshahajilondhe/)
+- **LeetCode:** [leetcode.com]([https://://leetcode.com](https://leetcode.com/u/user3958W/)
 - **Location:** Pune, Maharashtra, India 📍
