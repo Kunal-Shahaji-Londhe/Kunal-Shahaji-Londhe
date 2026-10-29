@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm Kunal Londhe</h1>
-<h3 align="left">mostly a backend developer but if you want me to i can work frontend as well.</h3>
+<h3 align="left">Full Stack Developer specializing in robust backend architectures, scalable Web APIs, and modern frontend ecosystems like Next.js</h3>
 
 - 📫 How to reach me **londhekunalx@gmail.com**
   
